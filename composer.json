@@ -1,10 +1,10 @@
 {
-    "name": "baibaratsky/yii2-ga-measurement-protocol",
+    "name": "bloodrain777/yii2-ga-measurement-protocol",
     "description": "Google Analytics Measurement Protocol for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii", "yii2", "ga", "google analytics", "measurement protocol", "analytics.js"],
     "license": "BSD-3-Clause",
-    "homepage": "http://github.com/baibaratsky/yii2-ga-measurement-protocol",
+    "homepage": "https://github.com/bloodrain777/yii2-ga-measurement-protocol",
     "authors": [
         {
             "name": "Andrei Baibaratsky",
