@@ -11,6 +11,7 @@
             "email": "andrei@baibaratsky.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "theiconic/php-ga-measurement-protocol": "^2.9",
         "yiisoft/yii2": "^2.0"
