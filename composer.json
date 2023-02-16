@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "theiconic/php-ga-measurement-protocol": "2.7.*",
-        "yiisoft/yii2": ">=2.0.13"
+        "theiconic/php-ga-measurement-protocol": "^2.9",
+        "yiisoft/yii2": "^2.0"
     },
     "autoload": {
         "psr-4": {
